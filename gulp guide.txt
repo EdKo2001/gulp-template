@@ -1,0 +1,3 @@
+gulp
+gulp build
+npm i
